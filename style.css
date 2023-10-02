@@ -12,5 +12,7 @@
 
 body{
     background: var(--cor-de-fundo);
-    color: var(--branco-principal)
+    color: var(--branco-principal);
+    
+    
 }
